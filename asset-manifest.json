@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dinogame/static/css/main.e2cc3321.css",
+    "main.js": "/dinogame/static/js/main.8534bed4.js",
+    "index.html": "/dinogame/index.html",
+    "main.e2cc3321.css.map": "/dinogame/static/css/main.e2cc3321.css.map",
+    "main.8534bed4.js.map": "/dinogame/static/js/main.8534bed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cc3321.css",
+    "static/js/main.8534bed4.js"
+  ]
+}
